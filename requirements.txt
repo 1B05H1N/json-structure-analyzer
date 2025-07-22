@@ -1,0 +1,14 @@
+# Combined Data Processor Requirements
+# All dependencies are from Python standard library - no external packages needed
+
+# Standard library modules used:
+# - json: JSON parsing and serialization
+# - sys: System-specific parameters and functions
+# - re: Regular expression operations
+# - pathlib: Object-oriented filesystem paths
+# - typing: Support for type hints
+# - hashlib: Secure hash and message digest algorithms
+# - argparse: Command line argument parsing
+
+# No external dependencies required!
+# This tool uses only Python standard library modules. 
